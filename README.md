@@ -6,7 +6,7 @@ This tutorial will show you how to create an image dataset from Google and train
 By the end of the tutorial, you will have a state-of-the-art deep learning model that can classify dandelions and grass. You can then export this model and deploy it to the web or and edge device for inference!
 
 ## Running this tutorial
-![run kaggle kernel](https://img.shields.io/badge/kaggle-kernel-9cf?style=for-the-badge&logo=appveyor?link=https://www.kaggle.com/btphan/greenr-an-image-classifier-in-fastai?scriptVersionId=33945487&link=https://www.kaggle.com/btphan/greenr-an-image-classifier-in-fastai?scriptVersionId=33945487)
+[<img src="https://img.shields.io/badge/kaggle-kernel-9cf?style=for-the-badge&logo=appveyor">](https://www.kaggle.com/btphan/greenr-an-image-classifier-in-fastai?scriptVersionId=33945487)
 
 Click the above badge to access the Kaggle kernel. If you haven't yet, sign up for a Kaggle account, and then create a copy of the kernel to follow along.
 
