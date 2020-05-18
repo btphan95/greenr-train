@@ -1,4 +1,8 @@
-<a href="url"><img src="https://cdn.pixabay.com/photo/2018/05/20/16/13/dandelion-3416140_960_720.jpg" align="middle" height="383" width="640" ></a>
+
+
+<p align="center">
+  <a href="url"><img src="https://cdn.pixabay.com/photo/2018/05/20/16/13/dandelion-3416140_960_720.jpg" align="middle" height="383" width="640" ></a>
+</p>
 
 # greenr: classify dandelions and grass
 This tutorial will show you how to create an image dataset from Google and train an image classifier in FastAI.
